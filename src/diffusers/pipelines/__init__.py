@@ -115,6 +115,7 @@ else:
     from .stable_diffusion_xl import (
         StableDiffusionXLImg2ImgPipeline,
         StableDiffusionXLInpaintPipeline,
+        StableDiffusionXLControlNetInpaintPipeline,
         StableDiffusionXLInstructPix2PixPipeline,
         StableDiffusionXLPipeline,
     )
